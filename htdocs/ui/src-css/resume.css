@@ -11,3 +11,7 @@ h2 {
 p {
   margin-top: 0px;
 }
+th, 
+td {
+  vertical-align: top;
+}
