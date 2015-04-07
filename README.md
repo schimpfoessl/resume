@@ -14,7 +14,7 @@ Phase 1 plus CSS 2
 Phase 3 plus plain JavaScript
 
 ### Phase 4 
-HTML 5, CSS 3, <a rel="tag" href="http://handlebarsjs.com/">handlebars.js</a> and <a href="https://jquery.com/">jquery</a>
+HTML 5, CSS 3, Sass, <a rel="tag" href="http://handlebarsjs.com/">handlebars.js</a> and <a href="https://jquery.com/">jquery</a>
 
 ### Phase 5
 Phase 4 plus <a rel="tag" href="http://backbonejs.org/">backbone.js</a>
