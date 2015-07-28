@@ -15,3 +15,6 @@ th,
 td {
   vertical-align: top;
 }
+ul {
+  padding-left: 15px;
+}
