@@ -1,5 +1,5 @@
 # Résumé - Daniel Schimpfössl
-_senior UX focused LAMP full stack engineer, leader and entrepreneur_
+_Internet architect, senior UX focused full stack engineer, leader and entrepreneur_
 
 ## Objective
 Iterative enhanced version of my résumé using progressively higher technologies from simple HTML without styles to SPA using modern front-end frameworks and SOA with No-SQL database and interactive interface.
